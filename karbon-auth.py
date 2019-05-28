@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from lib.karbon import KarbonClient
 from lib.karbon import PrismAuthenticate
 import argparse
